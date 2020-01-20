@@ -15,7 +15,7 @@ wip
 wip
 
 ## Usage
-`
+
     git clone https://github.com/KaydenTheHomie/Tailwind-Webpack-Boilerplate-for-building-minimized-static-website.git
     
     cd Tailwind-Webpack-Boilerplate-for-building-minimized-static-website/
@@ -24,7 +24,6 @@ wip
     
     npm run build:prod
     
-`
 
 This will open up localhost:8080.
 
