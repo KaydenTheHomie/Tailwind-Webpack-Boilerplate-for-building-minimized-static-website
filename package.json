@@ -42,5 +42,8 @@
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.10.1",
     "webpack-jarvis": "^0.3.2"
+  },
+  "dependencies": {
+    "detect-browser-language": "0.0.2"
   }
 }
