@@ -9,6 +9,7 @@ code & asset minimisation + optimisation with loaders & plugins.
 ## What it offer
 
 html,css,js minify(via loaders)
+
 js latest syntax transpile(via babel-loader)
 
 
