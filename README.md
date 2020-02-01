@@ -1,6 +1,6 @@
 ﻿# Tailwind-Webpack-Boilerplate-for-building-minimized-static-website
 
-## Purpose
+## Purposes
 
 Webpack Boilerplate for building minimized static website.
 
@@ -8,11 +8,9 @@ code & asset minimisation + optimisation with loaders & plugins.
 
 ## What it offer
 
-wip
+html,css,js minify(via loaders)
+js latest syntax transpile(via babel-loader)
 
-## How things work together(graph)
-
-wip
 
 ## Usage
 
